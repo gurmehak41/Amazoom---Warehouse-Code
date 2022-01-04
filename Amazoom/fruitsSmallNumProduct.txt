@@ -1,0 +1,49 @@
+Name: Apple
+Weight: 0.195
+Volume: 0.0002
+End
+
+Name: Apricot
+Weight: 0.035
+Volume: 0.0002
+End
+
+Name: Banana
+Weight: 0.120
+Volume: 0.0002
+End
+
+Name: Blackberry
+Weight: 0.00245
+Volume: 0.0001
+End
+
+Name: Cherry
+Weight: 0.005
+Volume: 0.0001
+End
+
+Name: Coconut
+Weight: 0.68
+Volume: 0.01
+End
+
+Name: Cranberry
+Weight: 0.00135
+Volume: 0.0001
+End
+
+Name: Durian
+Weight: 6.8
+Volume: 0.03
+End
+
+Name: Grape
+Weight: 0.005
+Volume: 0.0001
+End
+
+Name: Grapefruit
+Weight: 0.246
+Volume: 0.001
+End

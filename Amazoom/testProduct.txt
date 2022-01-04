@@ -1,0 +1,14 @@
+Name: FryingPan
+Weight: 3.6
+Volume: 0.0015
+End
+
+Name: RiceCooker
+Weight: 3.6
+Volume: 0.0013
+End
+
+Name: TravelBag
+Weight: 9.0
+Volume: 0.04
+End
